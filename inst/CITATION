@@ -1,0 +1,12 @@
+bibentry(bibtype = "Article",
+         title = "{ORdensity}: user-friendly R package to identify differentially expressed genes",
+         author = c(person("Jose María", "Martínez-Otzeta"),
+                    person("Itziar", "Irigoien"),
+                    person("Basilio", "Sierra"),
+                    person("Concepción", "Arenas")),
+         journal = "BMC Bioinformatics",
+         volume = "21",
+         pages = "1-10",
+         publisher = "Springer",
+         year = "2020",
+         url = "https://CRAN.R-project.org/package=ORdensity")

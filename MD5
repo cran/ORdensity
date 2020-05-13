@@ -1,0 +1,14 @@
+4bb83f8e569a17e5eb7b5ca86074055f *DESCRIPTION
+1409596fb6252ae1864380c70e5df931 *NAMESPACE
+3b6899e81308da8c7584fd834e5e3a5c *R/ORdensity-package.R
+93ca8a26ed3e203f2d79b31784a4745a *R/ORdensity.R
+c37ee914214103d324d994b72db476a0 *R/data.R
+5713bbeae86df4d5e2073c023bcb493c *data/simexpr.rda
+200adec7e0cb253cfce5299fe5b6aa11 *inst/CITATION
+314e734a69cb91b93c73e712469a471c *man/ORdensity-class.Rd
+0c05e6c17f72aaf4973d30aa2554b106 *man/ORdensity-package.Rd
+fca6c72b21aab4c3e9b0014a116166e4 *man/findDEgenes.Rd
+808fb36609e1f65b7bbbe5ce8b506982 *man/plot.ORdensity.Rd
+9715fe2c7d71b7f61a5f6ca872ada85a *man/preclusteredData.Rd
+6e843ba71a672e58f69a6c1dc247f947 *man/simexpr.Rd
+18fc7c656aa8d15265a87ab0ad506a38 *man/summary.ORdensity.Rd
